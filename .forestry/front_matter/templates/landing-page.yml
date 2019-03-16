@@ -79,4 +79,5 @@ fields:
   hidden: true
   default: home
 pages:
+- happy-blog-project.md
 - index.md
